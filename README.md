@@ -1,4 +1,4 @@
-**Automated template to prepare RFQ and ensure sales were viable** 
+**Automated template to prepare RFQ and ensure sales were viable created in 2016** 
 
 ## Situation
 During my time as a sales consultant working for an Aerospace supply chain service provider, I was responsible to find the best source of supply and price the item competitively to win business from customer who also work with other distributors. 
